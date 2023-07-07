@@ -1,0 +1,7 @@
+version=1
+id=2749650725
+title=Simply Skill Traits
+description=Adds traits that raise skill levels by 1, 2 or 3. That is all they do, no XP boosts, just extra levels. All skills covered except passives.
+description=Extra levels are added upon entering game world, they are not shown on character creation screen. Tested and works on build 41 MP.
+tags=Build 41;Traits
+visibility=public
